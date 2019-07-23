@@ -33,7 +33,7 @@ Challenge sended by luizalabs
             pip install -r requirements.txt
             python manage.py runserver
         ```
-        O script será incializado.
+        O serviço será incializado.
 
 ### Tests
 
